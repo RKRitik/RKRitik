@@ -55,7 +55,7 @@ Tech Stack
 <tr>
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=65px src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"> 
 </td>
 
 <td align="center" width="20%">
