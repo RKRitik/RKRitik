@@ -8,7 +8,7 @@ I am [Ritik Khatri](https://github.com/RKRitik) , 3rd Year B.Tech Computer Scien
 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on Full Stack Projects.
-- 💬 Ask me about Javascript, React, NodeJS , MongoDB.
+- 💬 Ask me about Javascript, [React](https://reactjs.org), [NodeJS](https://nodejs.org/en/) , [MongoDB](https://www.mongodb.com).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ritik-khatri-673b62115/) 
 
 
@@ -20,7 +20,7 @@ Tech Stack
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>[React](https://reactjs.org)</center></b></span> 
+<span><b><center>React</center></b></span> 
 <img height=60px src="https://user-images.githubusercontent.com/34672810/87503710-8b19e680-c682-11ea-953b-07be433fcb30.png"> 
 </td>
 
