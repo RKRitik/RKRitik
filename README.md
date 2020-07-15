@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 I am [Ritik Khatri](https://github.com/RKRitik) , 3rd Year B.Tech Computer Science student of VIT Vellore.
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on Full Stack Projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Javascript, React, NodeJS , MongoDB.
 - 📫 How to reach me: ...
@@ -20,6 +20,9 @@ I am [Ritik Khatri](https://github.com/RKRitik) , 3rd Year B.Tech Computer Scien
 
 Tech Stack
 ---------
-![ReactJS](https://user-images.githubusercontent.com/34672810/87503710-8b19e680-c682-11ea-953b-07be433fcb30.png) |
+ReactJS![ReactJS](https://user-images.githubusercontent.com/34672810/87503710-8b19e680-c682-11ea-953b-07be433fcb30.png) |
+Redux ![redux](https://user-images.githubusercontent.com/34672810/87503886-f4015e80-c682-11ea-9ec5-ec83dd87ca73.png) |
 MongoDB
-https://camo.githubusercontent.com/890587422b274f5b65e8ce6a595f6fa007500dca/68747470733a2f2f7777772e6c6f676f6c796e782e636f6d2f696d616765732f6c6f676f6c796e782f64352f64353062383333323466623466626162313463646661663437343039313135622e6a706567
+![mongo](https://user-images.githubusercontent.com/34672810/87503810-cae0ce00-c682-11ea-897b-da867d9e98ed.png) | 
+Python
+![python](https://user-images.githubusercontent.com/34672810/87504070-64a87b00-c683-11ea-8810-f91788cb2588.jpg)
