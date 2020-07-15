@@ -2,17 +2,15 @@
 
 
 
-Here are some ideas to get you started:
-I am [Ritik Khatri](https://github.com/RKRitik) , 3rd Year B.Tech Computer Science student of VIT Vellore.
+
+I am [Ritik Khatri](https://github.com/RKRitik) , 3rd Year B.Tech Computer Science student of VIT Vellore. I love learning new technologies and
 
 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on Full Stack Projects.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Javascript, React, NodeJS , MongoDB.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ritik-khatri-673b62115/) 
+
 -->
 - I am [Ritik Khatri](https://github.com/RKRitik) , 3rd Year B.Tech Computer Science💻 student of VIT Vellore.
 - I am proficient in Javascript,Python
@@ -52,25 +50,6 @@ I am [Ritik Khatri](https://github.com/RKRitik) , 3rd Year B.Tech Computer Scien
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-</td>
-
-
-
-<td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
@@ -78,14 +57,15 @@ I am [Ritik Khatri](https://github.com/RKRitik) , 3rd Year B.Tech Computer Scien
 
 <tr>
 <td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+</td>
+
+<td align="center" width="20%">
 <span><b><center>MongoDB</center></b></span> 
 <img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
-</td>
 
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
