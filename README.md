@@ -54,8 +54,8 @@ Tech Stack
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<span><b><center>Java</center></b></span> 
+<img height=65px src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg"> 
 </td>
 
 <td align="center" width="20%">
