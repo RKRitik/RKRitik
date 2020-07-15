@@ -6,7 +6,7 @@
 I am [Ritik Khatri](https://github.com/RKRitik) , 3rd Year B.Tech Computer Science student of VIT Vellore. I love learning new technologies and gaming.
 
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning [PyTorch](https://pytorch.org).
 - 👯 I’m looking to collaborate on Full Stack Projects.
 - 💬 Ask me about Javascript, [React](https://reactjs.org), [NodeJS](https://nodejs.org/en/) , [MongoDB](https://www.mongodb.com).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ritik-khatri-673b62115/) 
