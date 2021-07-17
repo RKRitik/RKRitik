@@ -3,7 +3,7 @@
 
 
 
-I am [Ritik Khatri](https://github.com/RKRitik) , 3rd Year B.Tech Computer Science student of VIT Vellore. I love learning new technologies and gaming.
+I am [Ritik Khatri](https://github.com/RKRitik) , Final Year B.Tech Computer Science student of VIT Vellore. I love learning new technologies and gaming.
 
 
 - 👯 I’m looking to collaborate on Full Stack Projects.
