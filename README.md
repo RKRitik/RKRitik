@@ -53,8 +53,8 @@ Tech Stack
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"> 
+<span><b><center>Go</center></b></span> 
+<img height=65px src="https://imgr.search.brave.com/mETotZ9UxNjCdcBdIn0s_bSm-HPN8PIJZdD2s-HGO5w/fit/1200/677/ce/1/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzEyMDAvMSpJ/ZnBkX0h0RGlLOXU2/aDY4U1pnTnVBLnBu/Zw"> 
 </td>
 
 <td align="center" width="20%">
