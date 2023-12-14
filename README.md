@@ -3,12 +3,27 @@
 
 
 
-I am [Ritik Khatri](https://github.com/RKRitik) , Final Year B.Tech Computer Science student of VIT Vellore. I love learning new technologies and gaming.
+I am a passionate Software Development Engineer with a B.Tech in Computer Science from VIT Vellore and a strong foundation in building robust web applications. Currently contributing my skills and expertise as an SDE I at DotPe since July 2022.
 
+Experience Highlights:
 
-- 👯 I’m looking to collaborate on Full Stack Projects.
-- 💬 Ask me about Javascript, [React](https://reactjs.org), [NodeJS](https://nodejs.org/en/) , [MongoDB](https://www.mongodb.com).
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ritik-khatri-673b62115/) 
+🚀 DotPe - Software Development Engineer I (July 2022 - Present)
+Working collaboratively within a dynamic team environment, I actively contribute to the development of innovative solutions and feature-rich web applications. My primary focus revolves around leveraging technologies such as React.js, Redux, JavaScript, TypeScript, Node.js, and Git to create efficient and user-centric software solutions.
+
+Skills & Expertise:
+
+🛠️ Proficient in React.js, Redux, JavaScript, TypeScript, Git, TailwindCSS, and React Native.
+🌐 Skilled in developing scalable and responsive web applications.
+🤝 Experienced in collaborative version control using Git for efficient team collaboration.
+📈 Continuously learning and adapting to new technologies to enhance productivity and quality of deliverables.
+
+Education:
+
+🎓 Bachelor of Technology in Computer Science, VIT Vellore, 2022
+
+Passion for Technology:
+
+I am deeply passionate about technology and its potential to drive meaningful change. I thrive in an environment that encourages innovation, problem-solving, and continuous learning. My goal is to contribute my skills towards creating impactful solutions that elevate user experiences and drive business growth.
 
 
 
